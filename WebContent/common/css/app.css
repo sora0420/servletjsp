@@ -1,0 +1,14 @@
+* {
+	font-size: medium;
+	margin: 0px;
+	padding: 0px;
+}
+
+div {
+	background-color: yellow;
+	height: 50px;
+}
+
+.class1 {
+	border: 1px solid black;
+}
